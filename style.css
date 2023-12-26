@@ -4,12 +4,10 @@
 
   margin: 0;
 
- font-family: "poppins" sans-serif;
-
 }
 
 body{
-  font-family: "poppins" sans-serif;
+  font-family: "poppins" Roboto;
 }
 
 
@@ -31,6 +29,8 @@ header{
   border-left: none;
 
   border-top: none;
+  
+  font-family: "poppins" Roboto;
 
 }
 
@@ -55,6 +55,8 @@ header{
   padding: 1rem;
 
   gap: 20%;
+  
+  font-family: "poppins" Roboto;
 
 }
 
@@ -89,7 +91,7 @@ nav ul li a{
   text-decoration: none;
 
   color: chocolate;
-
+  font-family: "poppins" Roboto;
 }
 
 
@@ -135,6 +137,8 @@ nav ul{
   position: absolute;
 
   top: 9rem;
+  
+  font-family: "poppins" Roboto;
 
 }
 
@@ -145,6 +149,8 @@ nav ul{
   font-size: 2.5rem;
 
   font-weight: bold;
+  
+  font-family: "poppins" Roboto;
 
 }
 
