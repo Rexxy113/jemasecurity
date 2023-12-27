@@ -160,6 +160,8 @@ button:hover{
 @media screen and (max-width: 760px) {
   .collaborate{
     padding: 3rem;
+    flex-direction: column;
+    /* height: 10rem; */
   }
 }
 
@@ -181,6 +183,7 @@ button:hover{
   padding: 1.5rem;
   border-radius: 5px;
   box-shadow: 2px 2px 8px black;
+  
 }
 
 .container3{
